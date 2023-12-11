@@ -1,5 +1,15 @@
 ### Hi there 👋
- <img src="/Images/yelan.gif" alt="developer gif"  height="45px">
+
+<style>
+ img {
+  border-radius:12px;
+ }
+</style>
+
+<h1 align="center">
+  <img src="/Images/yelan.gif" alt="developer gif"  height="60px">
+</h1>
+
  <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=What+up;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
