@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<style>
- img {
-  border-radius:12px;
- }
-</style>
+
 
 <h1 align="center">
   <img src="/Images/yelan.gif" alt="developer gif"  height="60px">
